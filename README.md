@@ -17,8 +17,6 @@ See description of two-stage hierarhical model fitting here: McCaslin, HM, AB Fe
 
 **second.hierarhical.model.function.r** - Function that implements an MCMC algorithm with Metropolis-Hastings steps for a second stage hierarhical model.
 
-### Scripts
-
 **JAGS.linear.reg.model.r.R** - JAGS code for a simple linear regression model
 
 **JAGS.hierarhical.linear.reg.model.r**- JAGS code for a hierarhical linear regression model
