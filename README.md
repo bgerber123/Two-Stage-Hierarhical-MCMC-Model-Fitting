@@ -1,5 +1,5 @@
 
-# **Example code to try a two-stage model fitting process for a linear hierarchical model. ** 
+# Example code to try a two-stage model fitting process for a linear hierarchical model.  
 
 ---
 
