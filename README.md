@@ -1,7 +1,9 @@
 
-# **Example code to try a two-stage model fitting process for a linear hierarhical model. I.e., McCaslin, HM, AB Feuka, and MB Hooten. (2020) "Hierarchical computing for hierarchical models in ecology." Methods in Ecology and Evolution.:** 
+# **Example code to try a two-stage model fitting process for a linear hierarchical model. ** 
 
 ---
+
+See description of two-stage hierarhical model fitting here: McCaslin, HM, AB Feuka, and MB Hooten. (2020) "Hierarchical computing for hierarchical models in ecology." Methods in Ecology and Evolution.
 
 
 
